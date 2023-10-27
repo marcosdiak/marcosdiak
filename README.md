@@ -1,5 +1,5 @@
 ```python
-from datascience import marcosdiak as md
+from artificialintelligence import marcosdiak as md
 
 md.profile()
 ```
@@ -19,5 +19,5 @@ md.profile()
 ```python
 md.contactdetails()
 ```
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcosdatascientist)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcosaiengineer)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcosdiak@gmail.com)
